@@ -5,7 +5,7 @@ import { Observable, of } from 'rxjs';
 const userBack = {
     firstName: 'Juan',
     lastName: 'Perez',
-    email: 'juanito.perez@mail.com',
+    email: 'juanitoo2.perez@mail.com',
     password: 'Juan1234'
 }
 
